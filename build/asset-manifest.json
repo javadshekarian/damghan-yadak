@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.28a1f6a3.css",
-    "main.js": "./static/js/main.139043ef.js",
+    "main.js": "./static/js/main.a19d407f.js",
+    "static/media/video.mp4": "./static/media/video.8f75d390db7c16b5de67.mp4",
     "static/media/IranNastaliq.ttf": "./static/media/IranNastaliq.32e9d4e99ce672ff198a.ttf",
     "static/media/1.jpg": "./static/media/1.a84eb6ac44087c6464d7.jpg",
     "static/media/IMG-20250220-WA0003.jpg": "./static/media/IMG-20250220-WA0003.8a9f914b6bd0bdae6356.jpg",
@@ -13,10 +14,10 @@
     "static/media/Vazir-Light.woff": "./static/media/Vazir-Light.dd230c2b71a41b810ead.woff",
     "index.html": "./index.html",
     "main.28a1f6a3.css.map": "./static/css/main.28a1f6a3.css.map",
-    "main.139043ef.js.map": "./static/js/main.139043ef.js.map"
+    "main.a19d407f.js.map": "./static/js/main.a19d407f.js.map"
   },
   "entrypoints": [
     "static/css/main.28a1f6a3.css",
-    "static/js/main.139043ef.js"
+    "static/js/main.a19d407f.js"
   ]
 }
