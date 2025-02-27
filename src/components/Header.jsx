@@ -24,7 +24,7 @@ const Page_1 = () => {
 
             if (main.current) {
                 main.current.style.opacity = "0";
-                main.current.style.backgroundImage = `url(/images/${currentIndex + 1}.jpg)`;
+                main.current.style.backgroundImage = `url(./images/${currentIndex + 1}.jpg)`;
                 setTimeout(() => {
                     if (main.current) main.current.style.opacity = "1";
                 }, 200);
