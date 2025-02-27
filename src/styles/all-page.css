@@ -18,7 +18,7 @@ body {
 	transition-duration: 1000ms;
 	transition-property: all;
 	transition-timing-function: ease;
-	background-image: url(../assets/images/1.jpg);
+	background-image: url(../images/1.jpg);
 	background-size: cover;
 	filter:  brightness(106%)  grayscale(50%) hue-rotate(0deg) invert(0%) opacity(100%) saturate(100%) sepia(0%);
 }
