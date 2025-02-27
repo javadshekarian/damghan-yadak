@@ -1,0 +1,37 @@
+@font-face {
+	font-family: 'iran-nastaeligh';
+	src: url(../assets/fonts/IranNastaliq.ttf);
+}
+@font-face {
+	font-family: 'vazir-bold';
+	src: url(../assets/fonts/Vazir-Bold.ttf);
+}
+@font-face {
+	font-family: 'vazir-light';
+	src: url(../assets/fonts/Vazir-Light.woff);
+}
+@font-face {
+	font-family: 'vazir-medium';
+	src: url(../assets/fonts/Vazir-Medium.ttf);
+}
+@font-face {
+	font-family: 'varzir-thin';
+	src: url(../assets/fonts/Vazir-Thin.eot);
+}
+@font-face {
+	font-family: 'varzir';
+	src: url(../assets/fonts/Vazir.ttf);
+}
+
+.fce {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-end;
+}
+.frc {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+}
